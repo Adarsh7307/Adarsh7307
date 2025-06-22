@@ -1,9 +1,14 @@
 -Hi, I’m @Adarsh7307
+
 👀 I’m interested in Full Stack Web Development, Java Programming, and building real-world software solutions.
+
 🌱 I’m currently learning Java (from basic to advanced), JavaScript, and strengthening my HTML5 & CSS3 skills.
+
 💞️ I’m looking to collaborate on web development projects, Java-based mini projects, or open-source contributions.
+
 📫 How to reach me:
     📧 Email: adarsh7307@gmail.com
+    
 😄 Pronouns: He/Him
 ⚡ Fun fact: I once struggled to understand code, but now I enjoy turning ideas into working applications. Passion and practice changed everything! 🚀
 
