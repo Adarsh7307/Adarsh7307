@@ -1,77 +1,25 @@
 # Hi 👋 I'm Adarsh
 
-🚀 Aspiring DevOps   
-🌱 Learning & building with DevOps tools
+💻 Computer Science Graduate  
+🌱 Learning DevOps & Cloud basics  
+📌 Interested in Linux, Containers, and CI/CD
 
 ---
 
 ## 🧑‍💻 About Me
-- Passionate about Linux, Cloud, and DevOps technologies  
-- Hands-on experience with containers, CI/CD pipelines, and cloud services  
-- Strong interest in automation and scalable infrastructure  
-- Currently improving my DevOps and Cloud skills through projects  
+- Learning Linux and Git fundamentals  
+- Practicing Docker and basic container concepts  
+- Exploring Kubernetes and AWS at beginner level  
+- Interested in how applications are deployed and automated  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills (Basics)
+- Linux
+- Git & GitHub
+- Docker, Docker Compose
+- Kubernetes (Pods, Deployments)
+- AWS (EC2, S3, IAM – basics)
+- Jenkins (basic CI/CD)
+- Networking fundamentals
 
-### 🔹 Operating System
-- Linux (Ubuntu, CentOS)
-- Shell/Bash Basics
-
-### 🔹 Version Control
-- Git
-- GitHub
-
-### 🔹 Containerization
-- Docker
-- Docker Compose
-
-### 🔹 Container Orchestration
-- Kubernetes (Pods, Deployments, Services)
-
-### 🔹 Cloud (AWS)
-- EC2
-- S3
-- IAM
-- Basic Networking
-
-### 🔹 CI/CD
-- Jenkins
-- Jenkins Pipelines
-- GitHub Integration
-
-### 🔹 Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Ports & Firewalls (Basics)
-
----
-
-## 📂 Projects
-### 🔹 Dockerized Application
-- Built and containerized a Node.js application using Docker
-- Created Dockerfile and managed containers
-
-### 🔹 CI/CD Pipeline using Jenkins
-- Automated build and deployment process
-- Integrated GitHub with Jenkins
-- Used Docker for deployment
-
-### 🔹 Kubernetes Deployment
-- Deployed containerized app on Kubernetes
-- Worked with Pods, Deployments, and Services
-
----
-
-## 📈 Currently Learning
-- Advanced Kubernetes
-- AWS Services
-- Infrastructure Automation
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
