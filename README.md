@@ -1,7 +1,6 @@
 # Hi 👋 I'm Adarsh
 
-🚀 Aspiring DevOps / Cloud Engineer  
-💻 Background in Web Development  
+🚀 Aspiring DevOps   
 🌱 Learning & building with DevOps tools
 
 ---
