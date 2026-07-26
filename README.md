@@ -7,14 +7,38 @@ I'm a DevOps & Cloud enthusiast who enjoys building, deploying, and managing sca
 
 Here's what I've been working with:
 
-🐧 Linux administration and server environments
-🔧 Git & GitHub for source control and collaboration
-🐳 Docker & Docker Compose for containerized applications
-☸️ Kubernetes for orchestrating workloads
-☁️ AWS cloud infrastructure and networking
-🏗️ Terraform for Infrastructure as Code (IaC)
-🔁 Jenkins for CI/CD pipelines
-📈 Automation, monitoring, and deployment workflows
+<br/>
+
+🐧 Step 1 — Linux & Servers Hands-on with Linux administration and server environments
+
+<br/>
+
+🔧 Step 2 — Git & GitHub Managing source code and collaboration workflows
+
+<br/>
+
+🐳 Step 3 — Docker & Docker Compose Building and running containerized applications
+
+<br/>
+
+☸️ Step 4 — Kubernetes Deploying and orchestrating workloads at scale
+
+<br/>
+
+☁️ Step 5 — AWS Cloud Working with cloud infrastructure and networking services
+
+<br/>
+
+🏗️ Step 6 — Terraform Writing Infrastructure as Code (IaC) for repeatable deployments
+
+<br/>
+
+🔁 Step 7 — Jenkins Building CI/CD pipelines for automated delivery
+
+<br/>
+
+📈 Step 8 — Automation & Monitoring Exploring scalability, monitoring, and deployment workflows
+
 <br/>
 🛠️ Tech Stack
 <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws,terraform,bash&theme=dark" /> </div>
@@ -49,5 +73,5 @@ hotel-backend — Backend service project
 
 <br/>
 🔗 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/adarsh-tiwari-33bb512b7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:adarshkr7307@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42BC,100:2EA3F7&height=120&section=footer" />
+<p align="center"> <a href="https://www.linkedin.com/in/adarsh-tiwari-33bb512b7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:adarshkr7307@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42BC,50:2EA3F7,100:00C9A7&height=150&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20🚀&fontSize=20&fontColor=ffffff&fontAlignY=80" />
 
